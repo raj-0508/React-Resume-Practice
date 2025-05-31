@@ -1,12 +1,51 @@
-# React + Vite
+# 🎨 Portfolio Website using React, Vite & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a portfolio website built with modern web technologies like **React**, **Tailwind CSS**, and **Vite**. The design is clean, responsive, and production-ready.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Preview
 
-## Expanding the ESLint configuration
+*(Add your deployed link here, e.g. Vercel / Netlify)*  
+👉 [View Live](https://your-deployment-link.com)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚛️ About React
+
+**React** is a popular JavaScript library for building user interfaces. Created by Facebook, React allows developers to build fast, dynamic, and scalable front-end applications using components.
+
+### Why React was used in this project:
+
+- **Component-based architecture**: Reusable and modular UI components.
+- **Fast rendering**: React uses a virtual DOM to update the UI efficiently.
+- **Declarative syntax**: Makes it easier to describe UI states and transitions.
+- **Developer-friendly**: Works well with tools like Vite, Tailwind, and modern build systems.
+
+---
+
+## 📚 What I Learned
+
+Through this project, I learned and practiced:
+
+- ⚛️ **React Basics**
+  - Component-based structure
+  - Props and JSX syntax
+  - Conditional rendering and responsive layouts
+
+- 🎨 **Tailwind CSS**
+  - Utility-first CSS styling
+  - Responsive breakpoints (`sm`, `md`, `lg`, etc.)
+  - Hover states, shadows, spacing, flexbox/grid utilities
+  - Custom classes for fonts, colors, layout, and animation
+
+- ⚡ **Vite Setup**
+  - Fast React environment with hot-reloading
+  - Vite + Tailwind integration
+
+- 💡 **Design & Layout**
+  - Mobile-first and desktop-friendly design
+  - Semantic HTML5 structure
+  - Interactive menu (hamburger toggle)
+  - Font and icon integration 
+
