@@ -4,7 +4,7 @@ import personImage from '../assets/person.png'
 function HeroSection() {
   return (
         <main className="flex flex-wrap justify-center items-center gap-2 px-8 mt-6 ">
-                <img src={personImage} alt="" className='width-full h-auto max-w-[600px] object-cover' />
+                <img src={personImage} alt="" className='w-full h-auto max-w-[550px] object-cover' />
             <div className='flex flex-col justify-center'>
                 <h1 className='text-3xl text-[#c91b28] font-semibold'>Hello, I'm Arthur</h1>
                 <h2 className='text-5xl md:text-6xl font-semibold'>Visual Designer</h2>
