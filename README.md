@@ -2,14 +2,13 @@
 
 This is a portfolio website built with modern web technologies like **React**, **Tailwind CSS**, and **Vite**. The design is clean, responsive, and production-ready.
 
----
 
-## 🚀 Live Preview
 
-*(Add your deployed link here, e.g. Vercel / Netlify)*  
-👉 [View Live](https://your-deployment-link.com)
+## 🚀 Live Preview 👉 [View Live](https://react-resume-practice.vercel.app/)
 
----
+
+
+
 
 ## ⚛️ About React
 
@@ -22,7 +21,7 @@ This is a portfolio website built with modern web technologies like **React**, *
 - **Declarative syntax**: Makes it easier to describe UI states and transitions.
 - **Developer-friendly**: Works well with tools like Vite, Tailwind, and modern build systems.
 
----
+
 
 ## 📚 What I Learned
 
@@ -49,3 +48,6 @@ Through this project, I learned and practiced:
   - Interactive menu (hamburger toggle)
   - Font and icon integration 
 
+# Screenshot
+
+![image](Screenshot.png)
